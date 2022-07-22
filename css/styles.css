@@ -393,8 +393,6 @@ body {
     color: #ffffff;
 }
 
-/*--------PORTFOLIO---------*/
-
 .filter-list {
     display: flex;
     margin-left: auto;
@@ -436,6 +434,8 @@ body {
 .portfolio-filter-item:last-child {
     padding-right: 0;
 }
+
+/*--------PORTFOLIO---------*/
 
 .portfolio-list {
     display: flex;
